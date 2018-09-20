@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+# Misc
+.env
+#tests coverage
+/.nyc_output
+/coverage
